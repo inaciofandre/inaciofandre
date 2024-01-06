@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Inacio Andre
 <h3 align="center">Junior Cybersecurity Analyst | Network Engineer | IT Support | Malware Analyst | SOC Analyst</h3>
 </h1>
-<h3 align="center">Junior Cybersecurity Analyst | Network Engineer | IT Support | Malware Analyst | SOC Analyst</h3>
 
 <h3>👨‍💻 Networking Projects:</h3>
 
