@@ -71,6 +71,10 @@ Cybersecurity Analyst | Network Engineer | SOC Analyst
 <h2> 📃 Certifications/Badges:</h2>
 
   - [Malware Analyzer](https://app.letsdefend.io/my-badges/detail/0fa60164-3b59-4d0d-8d3b-3fb2dc5932fe)
+  - [Dynamic Analyst](https://app.letsdefend.io/my-badges/detail/3678144e-8b0d-4b28-8bad-52345d7c927a)
+  - [Wireshark Expert](https://app.letsdefend.io/my-badges/detail/c2f0acd7-32bc-46ee-8bca-fc3219bdb217)
+  - [Lab Builder](https://app.letsdefend.io/my-badges/detail/980ca152-3fe4-4024-85f5-7daaf7c92097)
+  - [Malicious Excel Expert](https://app.letsdefend.io/my-badges/detail/2ae1c936-9849-4c16-ab3a-24b33fadfa52)
 
 
 <h3 align="left">Connect with me:</h3>
