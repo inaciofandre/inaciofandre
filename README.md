@@ -3,6 +3,7 @@
 
 <h3>👨‍💻 Networking Projects:</h3>
 - <b>VTP and DTP Configuration</b>
+
   - [VTP/DTP Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Spanning Tree Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
   - [EtherChannel- PAGP/LACP Configuration PART 1](https://github.com/joshmadakor1/Algorithms-Practice)
