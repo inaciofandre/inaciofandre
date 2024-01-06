@@ -69,7 +69,7 @@ Cybersecurity Analyst | Network Engineer | SOC Analyst
 <h3>👨‍💻 Programming Projects:</h3>
 
 <h2> 📃 Certifications/Badges:</h2>
-  - [Malware Analyzer](https://app.letsdefend.io/my-badges/detail/0fa60164-3b59-4d0d-8d3b-3fb2dc5932fe)
+  - [Malware Analyzer] (https://app.letsdefend.io/my-badges/detail/0fa60164-3b59-4d0d-8d3b-3fb2dc5932fe)
 
 
 <h3 align="left">Connect with me:</h3>
