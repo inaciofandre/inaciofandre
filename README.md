@@ -4,47 +4,47 @@
 <h3>👨‍💻 Networking Projects:</h3>
 - <b>VTP and DTP Configuration</b>
 
-  - [VTP/DTP Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [VTP/DTP Configuration](https://github.com/)
   
 - <b>Spanning Tree Configuration</b>
 
-  - [Spanning Tree Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Spanning Tree Configuration](https://github.com/)
   
 - <b>EtherChannel- PAGP/LACP Configuration PART 1</b>
 
-  - [EtherChannel- PAGP/LACP Configuration PART 1](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [EtherChannel- PAGP/LACP Configuration PART 1](https://github.com/)
 
 - <b>EtherChannel- ON Mode Configuration PART 2</b>
 
-  - [EtherChannel- ON Mode Configuration PART 2](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [EtherChannel- ON Mode Configuration PART 2](https://github.com/)
 
 - <b>STP Attack Prevention Configuration</b>
 
-  - [STP Attack Prevention Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [STP Attack Prevention Configuration](https://github.com/)
   
 - <b>VLANs Configuration</b>
 
-  - [VLANs Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [VLANs Configuration](https://github.com/)
 
 - <b>Trunk- Allowed/Denied VLANs Configuration</b>
 
-  - [Trunk- Allowed/Denied VLANs Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Trunk- Allowed/Denied VLANs Configuration](https://github.com/)
 
 - <b>Native VLAN Configuration</b>
 
-  - [Native VLAN Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Native VLAN Configuration](https://github.com/)
   
 - <b>Remote Access- Telnet Configuration</b>
 
-  - [Remote Access- Telnet Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Remote Access- Telnet Configuration](https://github.com/)
   
 - <b>Remote Access- SSH Configuration</b>
 
-  - [Remote Access- SSH Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Remote Access- SSH Configuration](https://github.com/)
   
 - <b>VLAN Hoping Attack Pevention Configuration</b>
 
-  - [VLAN Hoping Attack Pevention Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [VLAN Hoping Attack Pevention Configuration](https://github.com/)
 
 - <b>DHCP Snooping Configuration</b>
 
@@ -52,15 +52,15 @@
   
 - <b>Dynamic ARP Inspection Configuration</b>
 
-  - [Dynamic ARP Inspection Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Dynamic ARP Inspection Configuration](https://github.com/)
   
 - <b>Port Security Configuration</b>
 
-  - [Port Security Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Port Security Configuration](https://github.com/)
   
 - <b>ACL for VTY interfaces Configuration</b>
 
-  - [ACL for VTY interfaces Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ACL for VTY interfaces Configuration](https://github.com/)
  
 <h3>👨‍💻 Cybersecurity Projects:</h3>
 
