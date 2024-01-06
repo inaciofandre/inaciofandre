@@ -68,7 +68,7 @@ Cybersecurity Analyst | Network Engineer | SOC Analyst
 
 <h3>👨‍💻 Programming Projects:</h3>
 
-<h2> 🤳 Certifications:</h2>
+<h2> 📃 Certifications:</h2>
 
 
 <h3 align="left">Connect with me:</h3>
