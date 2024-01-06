@@ -2,7 +2,7 @@
 Cybersecurity Analyst | Network Engineer | SOC Analyst 
 </h1>
 
-<h3>👨‍💻 Networking Projects:</h3>
+<h3>👨‍💻 Networking Labs:</h3>
 
 - <b>VTP and DTP Configuration</b>
 
@@ -65,6 +65,8 @@ Cybersecurity Analyst | Network Engineer | SOC Analyst
   - [ACL for VTY interfaces Configuration](https://github.com/)
  
 <h3>👨‍💻 Cybersecurity Projects:</h3>
+
+<h3>👨‍💻 Networking Projects:</h3>
 
 <h3>👨‍💻 Programming Projects:</h3>
 
