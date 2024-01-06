@@ -2,6 +2,7 @@
 <h3 align="center">Junior Cybersecurity Analyst</h3>
 
 <h3>👨‍💻 Networking Projects:</h3>
+
 - <b>VTP and DTP Configuration</b>
 
   - [VTP/DTP Configuration](https://github.com/)
