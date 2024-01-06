@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inacio Andre</h1>
-<h3 align="center">Junior Cybersecurity Analyst</h3>
+<h3 align="center">Junior Cybersecurity Analyst | Network Engineer | IT Support | Malware Analyst | SOC Analyst</h3>
 
 <h3>👨‍💻 Networking Projects:</h3>
 
@@ -49,7 +49,7 @@
 
 - <b>DHCP Snooping Configuration</b>
 
-  - [DHCP Snooping Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [DHCP Snooping Configuration](https://github.com/)
   
 - <b>Dynamic ARP Inspection Configuration</b>
 
