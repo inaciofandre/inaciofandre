@@ -6,7 +6,7 @@ Cybersecurity Analyst | Network Engineer | SOC Analyst
 
 - <b>VTP and DTP Configuration</b>
 
-  - [VTP/DTP Configuration](https://github.com/)
+  - [VTP/DTP Configuration](https://github.com/inaciofandre/VTP-and-DTP-Configuration.git)
   
 - <b>Spanning Tree Configuration</b>
 
