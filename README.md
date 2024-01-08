@@ -14,7 +14,7 @@ Cybersecurity Analyst | Network Engineer | SOC Analyst
   
 - <b>EtherChannel- PAGP/LACP Configuration PART 1</b>
 
-  - [EtherChannel- PAGP/LACP Configuration PART 1](https://github.com/)
+  - [EtherChannel- PAGP/LACP Configuration PART 1](https://github.com/inaciofandre/EtherChannel--PAGP-LACP-Configuration.git)
 
 - <b>EtherChannel- ON Mode Configuration PART 2</b>
 
