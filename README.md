@@ -46,7 +46,7 @@ Cybersecurity Analyst | Network Engineer | SOC Analyst
   
 - <b>VLAN Hoping Attack Pevention Configuration</b>
 
-  - [VLAN Hoping Attack Pevention Configuration](https://github.com/)
+  - [VLAN Hoping Attack Pevention Configuration](https://github.com/inaciofandre/VLAN-Hoping-Attacks-Prevention-Switchport-Nonegotiate-Disable-CDP)
 
 - <b>DHCP Snooping Configuration</b>
 
