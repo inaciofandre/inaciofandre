@@ -50,11 +50,11 @@ Cybersecurity Analyst | Network Engineer | SOC Analyst
 
 - <b>DHCP Snooping Configuration</b>
 
-  - [DHCP Snooping Configuration](https://github.com/)
+  - [DHCP Snooping Configuration](https://github.com/inaciofandre/DHCP-Snooping-Configuration)
   
 - <b>Dynamic ARP Inspection Configuration</b>
 
-  - [Dynamic ARP Inspection Configuration](https://github.com/)
+  - [Dynamic ARP Inspection Configuration](https://github.com/inaciofandre/Dynamic-ARP-Inspection-Configure-DAI)
   
 - <b>Port Security Configuration</b>
 
