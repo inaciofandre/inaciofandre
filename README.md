@@ -8,9 +8,9 @@ Cybersecurity Analyst | Network Engineer | Programmer
 
   - [SWICTHING TECHNOLOGIES LAB](https://github.com/inaciofandre/Switching-Technologies)
   
-- <b>Spanning Tree Configuration</b>
+- <b>ROUTING TECHNOLOGIES</b>
 
-  - [Spanning Tree Configuration](https://github.com/)
+  - [ROUTING TECHNOLOGIES LAB](https://github.com/inaciofandre/Routing-Technologies-)
   
 - <b>EtherChannel- PAGP/LACP Configuration PART 1</b>
 
