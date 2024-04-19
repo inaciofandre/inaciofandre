@@ -4,13 +4,7 @@ Cybersecurity Analyst | Network Engineer | Programmer
 
 <h3>👨‍💻 Networking Labs:</h3>
 
-- <b>SWICTHING TECHNOLOGIES </b>
-
-  - [SWICTHING TECHNOLOGIES LAB](https://github.com/inaciofandre/Switching-Technologies)
-  
-- <b>ROUTING TECHNOLOGIES</b>
-
-  - [ROUTING TECHNOLOGIES LAB](https://github.com/inaciofandre/Routing-Technologies-)
+- <b>[SWICTHING TECHNOLOGIES LAB](https://github.com/inaciofandre/Switching-Technologies)</b>
 - <b>[ROUTING TECHNOLOGIES LAB](https://github.com/inaciofandre/Routing-Technologies-)</b>
   
 <h3>👨‍💻 Cybersecurity Projects:</h3>
