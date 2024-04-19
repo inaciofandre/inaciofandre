@@ -11,6 +11,7 @@ Cybersecurity Analyst | Network Engineer | Programmer
 - <b>ROUTING TECHNOLOGIES</b>
 
   - [ROUTING TECHNOLOGIES LAB](https://github.com/inaciofandre/Routing-Technologies-)
+- <b>[ROUTING TECHNOLOGIES LAB](https://github.com/inaciofandre/Routing-Technologies-)</b>
   
 <h3>👨‍💻 Cybersecurity Projects:</h3>
 
