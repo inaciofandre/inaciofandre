@@ -4,9 +4,9 @@ Cybersecurity Analyst | Network Engineer | Programmer
 
 <h3>👨‍💻 Networking Labs:</h3>
 
-- <b>VTP and DTP Configuration</b>
+- <b>SWICTHING TECHNOLOGIES </b>
 
-  - [VTP/DTP Configuration](https://github.com/inaciofandre/VTP-and-DTP-Configuration.git)
+  - https://github.com/inaciofandre/Switching-Technologies
   
 - <b>Spanning Tree Configuration</b>
 
