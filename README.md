@@ -12,58 +12,6 @@ Cybersecurity Analyst | Network Engineer | Programmer
 
   - [ROUTING TECHNOLOGIES LAB](https://github.com/inaciofandre/Routing-Technologies-)
   
-- <b>EtherChannel- PAGP/LACP Configuration PART 1</b>
-
-  - [EtherChannel- PAGP/LACP Configuration PART 1](https://github.com/inaciofandre/EtherChannel--PAGP-LACP-Configuration.git)
-
-- <b>EtherChannel- ON Mode Configuration PART 2</b>
-
-  - [EtherChannel- ON Mode Configuration PART 2](https://github.com/)
-
-- <b>STP Attack Prevention Configuration</b>
-
-  - [STP Attack Prevention Configuration](https://github.com/inaciofandre/STP-Attack-Prevention-Configuration)
-  
-- <b>VLANs Configuration</b>
-
-  - [VLANs Configuration](https://github.com/)
-
-- <b>Trunk- Allowed/Denied VLANs Configuration</b>
-
-  - [Trunk- Allowed/Denied VLANs Configuration](https://github.com/)
-
-- <b>Native VLAN Configuration</b>
-
-  - [Native VLAN Configuration](https://github.com/)
-  
-- <b>Remote Access- Telnet Configuration</b>
-
-  - [Remote Access- Telnet Configuration](https://github.com/)
-  
-- <b>Remote Access- SSH Configuration</b>
-
-  - [Remote Access- SSH Configuration](https://github.com/)
-  
-- <b>VLAN Hoping Attack Pevention Configuration</b>
-
-  - [VLAN Hoping Attack Pevention Configuration](https://github.com/inaciofandre/VLAN-Hoping-Attacks-Prevention-Switchport-Nonegotiate-Disable-CDP)
-
-- <b>DHCP Snooping Configuration</b>
-
-  - [DHCP Snooping Configuration](https://github.com/inaciofandre/DHCP-Snooping-Configuration)
-  
-- <b>Dynamic ARP Inspection Configuration</b>
-
-  - [Dynamic ARP Inspection Configuration](https://github.com/inaciofandre/Dynamic-ARP-Inspection-Configure-DAI)
-  
-- <b>Port Security Configuration</b>
-
-  - [Port Security Configuration](https://github.com/inaciofandre/Port-Security-Configuration)
-  
-- <b>ACL for VTY interfaces Configuration</b>
-
-  - [ACL for VTY interfaces Configuration](https://github.com/inaciofandre/ACL-CONFIGURATION-ON-VTY-LINES)
- 
 <h3>👨‍💻 Cybersecurity Projects:</h3>
 
 <h3>👨‍💻 Networking Projects:</h3>
